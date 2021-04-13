@@ -1,2 +1,0 @@
-# yugimport-api
-ss
