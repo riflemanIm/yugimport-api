@@ -1,14 +1,15 @@
 {
-    "name": "myapp",
+    "name": "yugimport-api",
     "description": "a really cool app",
     "version": "1.0.0",
+    "main": "server.js",
     "engines": {
       "node": "14.x"
     },
     "scripts": {
         "start" : "node server.js"
      },
-    "devDependencies": {
+    "dependencies": {
         "json-server": "^0.16.3"
       }
       
