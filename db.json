@@ -9,19 +9,19 @@
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Fresh Orange",
+      "name": "Маслины без косточек",
       "rate": 4,
       "price": 9.99,
       "discount": 3,
       "quantity": 8,
-      "coverImage": "/assets/images/products/1.png",
+      "coverImage": "/assets/images/products/olives/maslines_bez_kost.png",
       "images": [
-        "/assets/images/products/1.png",
+        "/assets/images/products/olives/maslines_bez_kost.png",
         "/assets/images/products/2.png",
         "/assets/images/products/3.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "300гр",
         "dimensions": {
           "long": 30,
           "width": 15,
@@ -81,13 +81,13 @@
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Green Chrusanthemum",
+      "name": "Маслины без косточек",
       "rate": 5,
       "price": 5.99,
       "quantity": 4,
-      "coverImage": "/assets/images/products/2.png",
+      "coverImage": "/assets/images/products/olives/maslines_s_kost.png",
       "images": [
-        "/assets/images/products/2.png",
+        "/assets/images/products/olives/maslines_s_kost.png",
         "/assets/images/products/3.png",
         "/assets/images/products/4.png"
       ],
