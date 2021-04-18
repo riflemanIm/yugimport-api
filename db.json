@@ -2,7 +2,7 @@
   "product": [
     {
       "id": "1",
-      "category": "маслины/оливки",
+      "category": "маслины",
       "tag": [
         "fressh",
         "vegetable"
@@ -14,11 +14,9 @@
       "price": 9.99,
       "discount": 3,
       "quantity": 8,
-      "coverImage": "/assets/images/products/olives/maslines_bez_kost.png",
+      "coverImage": "/assets/images/products/maslines_bez_kost.png",
       "images": [
-        "/assets/images/products/olives/maslines_bez_kost.png",
-        "/assets/images/products/2.png",
-        "/assets/images/products/3.png"
+        "/assets/images/products/maslines_bez_kost.png"
       ],
       "specifications": {
         "weight": "300гр",
@@ -74,7 +72,7 @@
     },
     {
       "id": "2",
-      "category": "маслины/оливки",
+      "category": "маслины",
       "tag": [
         "fresh",
         "meat"
@@ -85,11 +83,9 @@
       "rate": 5,
       "price": 5.99,
       "quantity": 4,
-      "coverImage": "/assets/images/products/olives/maslines_s_kost.png",
+      "coverImage": "/assets/images/products/maslines_s_kost.png",
       "images": [
-        "/assets/images/products/olives/maslines_s_kost.png",
-        "/assets/images/products/3.png",
-        "/assets/images/products/4.png"
+        "/assets/images/products/maslines_s_kost.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -145,22 +141,20 @@
     },
     {
       "id": "3",
-      "category": "маслины/оливки",
+      "category": "маслины",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Mustard Australia",
+      "name": "Маслины резаные 3100",
       "rate": 5,
       "price": 29,
       "quantity": 23,
-      "coverImage": "/assets/images/products/3.png",
+      "coverImage": "/assets/images/products/maslines-rez-3100.png",
       "images": [
-        "/assets/images/products/3.png",
-        "/assets/images/products/4.png",
-        "/assets/images/products/5.png"
+        "/assets/images/products/maslines-rez-3100.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -216,23 +210,21 @@
     },
     {
       "id": "4",
-      "category": "маслины/оливки",
+      "category": "молоко",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Grouped Product",
+      "name": "Молоко кокосовое",
       "rate": 5,
       "price": 17,
       "discount": 2,
       "quantity": 23,
-      "coverImage": "/assets/images/products/4.png",
+      "coverImage": "/assets/images/products/mol-kokos425.png",
       "images": [
-        "/assets/images/products/4.png",
-        "/assets/images/products/5.png",
-        "/assets/images/products/6.png"
+        "/assets/images/products/mol-kokos425.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -288,22 +280,20 @@
     },
     {
       "id": "5",
-      "category": "фасоль",
+      "category": "грибы",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "India Strawberry",
+      "name": "Намеко консервированные",
       "rate": 5,
       "price": 17,
       "quantity": 23,
-      "coverImage": "/assets/images/products/5.png",
+      "coverImage": "/assets/images/products/nameko-3100.png",
       "images": [
-        "/assets/images/products/5.png",
-        "/assets/images/products/6.png",
-        "/assets/images/products/7.png"
+        "/assets/images/products/nameko-3100.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -359,22 +349,20 @@
     },
     {
       "id": "6",
-      "category": "фасоль",
+      "category": "оливки",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "American Grape",
+      "name": "Оливки зеленые без косточек",
       "rate": 5,
       "price": 15,
       "quantity": 3,
-      "coverImage": "/assets/images/products/6.png",
+      "coverImage": "/assets/images/products/olive-б_k.png",
       "images": [
-        "/assets/images/products/7.png",
-        "/assets/images/products/8.png",
-        "/assets/images/products/9.png"
+        "/assets/images/products/olive-б_k.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -430,22 +418,20 @@
     },
     {
       "id": "7",
-      "category": "фасоль",
+      "category": "оливки",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Anpan Bread",
+      "name": "Оливки фаршированные криветками",
       "rate": 4,
       "price": 69,
       "quantity": 15,
-      "coverImage": "/assets/images/products/7.png",
+      "coverImage": "/assets/images/products/olive-krev.png",
       "images": [
-        "/assets/images/products/7.png",
-        "/assets/images/products/8.png",
-        "/assets/images/products/9.png"
+        "/assets/images/products/olive-krev.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -501,22 +487,20 @@
     },
     {
       "id": "8",
-      "category": "фасоль",
+      "category": "оливки",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Fortune Cookies",
+      "name": "Оливки зеленые фаршированные лимоном",
       "rate": 3,
       "price": 26,
       "quantity": 15,
-      "coverImage": "/assets/images/products/8.png",
+      "coverImage": "/assets/images/products/olive-lemon.png",
       "images": [
-        "/assets/images/products/8.png",
-        "/assets/images/products/9.png",
-        "/assets/images/products/10.png"
+        "/assets/images/products/olive-lemon.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -572,22 +556,20 @@
     },
     {
       "id": "9",
-      "category": "горошек",
+      "category": "оливки",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Green Cauliflower",
+      "name": "Оливки зеленые фаршированные лососем",
       "rate": 4,
       "price": 26,
       "quantity": 15,
-      "coverImage": "/assets/images/products/9.png",
+      "coverImage": "/assets/images/products/olive-losos.png",
       "images": [
-        "/assets/images/products/9.png",
-        "/assets/images/products/10.png",
-        "/assets/images/products/11.png"
+        "/assets/images/products/olive-losos.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -643,20 +625,20 @@
     },
     {
       "id": "10",
-      "category": "горошек",
+      "category": "фрукты",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Green Aus",
+      "name": "Абрикосы очищенные половинки в легком сиропе",
       "rate": 4,
       "price": 19,
       "quantity": 15,
-      "coverImage": "/assets/images/products/10.png",
+      "coverImage": "/assets/images/products/abrikos-425.png",
       "images": [
-        "/assets/images/products/10.png",
+        "/assets/images/products/abrikos-425.png",
         "/assets/images/products/11.png",
         "/assets/images/products/12.png"
       ],
@@ -714,23 +696,21 @@
     },
     {
       "id": "11",
-      "category": "горошек",
+      "category": "фрукты",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Kossar’s Bakery",
+      "name": "Ананас кусочки в легком сиропе",
       "rate": 4,
       "price": 45,
       "discount": 5,
       "quantity": 10,
-      "coverImage": "/assets/images/products/11.png",
+      "coverImage": "/assets/images/products/ananas-kus-580.png",
       "images": [
-        "/assets/images/products/11.png",
-        "/assets/images/products/12.png",
-        "/assets/images/products/13.png"
+        "/assets/images/products/ananas-kus-580.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -786,22 +766,20 @@
     },
     {
       "id": "12",
-      "category": "горошек",
+      "category": "шрукты",
       "tag": [
         "fresh",
         "meat"
       ],
       "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
       "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Zutter Chocolate",
+      "name": "Ананас кусочки",
       "rate": 4,
       "price": 33,
       "quantity": 4,
-      "coverImage": "/assets/images/products/12.png",
+      "coverImage": "/assets/images/products/F-ananas-res-425.png",
       "images": [
-        "/assets/images/products/12.png",
-        "/assets/images/products/13.png",
-        "/assets/images/products/14.png"
+        "/assets/images/products/F-ananas-res-425.png"
       ],
       "specifications": {
         "weight": "1kg",
@@ -854,6 +832,186 @@
           "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
         }
       ]
+    },
+    {
+      "id": "13",
+      "category": "шрукты",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Ананас шайбы",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-ananas-shybi-425.png",
+      "images": [
+        "/assets/images/products/F-ananas-shybi-425.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "14",
+      "category": "бабовые",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Фасоль белая",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-fasol-bel-425.png",
+      "images": [
+        "/assets/images/products/F-fasol-bel-425.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "15",
+      "category": "бабовые",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Фасоль красная",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-fasol-krasna-425.png",
+      "images": [
+        "/assets/images/products/F-fasol-krasna-425.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "16",
+      "category": "фрукты",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Груши половинки в легком сиропе",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-grushi-3100.png",
+      "images": [
+        "/assets/images/products/F-grushi-3100.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "17",
+      "category": "кукуруза",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Початки кукурузы",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-kukuruzn-poch-baby-3100.png",
+      "images": [
+        "/assets/images/products/F-kukuruzn-poch-baby-3100.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "18",
+      "category": "Манго в легком сиропе",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Початки кукурузы",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-mango-425.png",
+      "images": [
+        "/assets/images/products/F-mango-425.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
     }
   ],
   "blog": [
@@ -1326,6 +1484,78 @@
     "email": "admin@gmail.com",
     "password": "avitex"
   },
-  "cart": [],
+  "cart": [
+    {
+      "id": "d1bbd4c7-befb-426a-a6b2-f4ec80714f61",
+      "category": "маслины",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Маслины резаные 3100",
+      "rate": 5,
+      "price": 29,
+      "quantity": 23,
+      "coverImage": "/assets/images/products/maslines-rez-3100.png",
+      "images": [
+        "/assets/images/products/maslines-rez-3100.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "red",
+        "size": "s"
+      },
+      "slug": "mustard-australia-3",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Max Shawrad",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Sharah Anna",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Charlotte Jessica",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Mary Lili",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
+        }
+      ],
+      "productId": "3",
+      "cartQuantity": 1
+    }
+  ],
   "wishlist": []
 }
