@@ -2,14 +2,14 @@
   "product": [
     {
       "id": "1",
-      "brand": "Lorado", "category":"маслины",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fressh",
-        "vegetable"
+        "2 314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Маслины без косточек",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
+      "name": "Маслины чёрные без косточки",
       "rate": 4,
       "price": 9.99,
       "discount": 3,
@@ -19,7 +19,7 @@
         "/assets/images/products/maslines_bez_kost.png"
       ],
       "specifications": {
-        "weight": "300гр",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 15,
@@ -29,57 +29,19 @@
         "size": "xl"
       },
       "slug": "fresh-orange-1",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "2",
-      "brand": "Lorado", "category":"маслины",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "2 314ml d65 h100",
+        ""
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Маслины без косточек",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
+      "name": "Маслины черные с косточкой",
       "rate": 5,
       "price": 5.99,
       "quantity": 4,
@@ -88,7 +50,7 @@
         "/assets/images/products/maslines_s_kost.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -141,14 +103,15 @@
     },
     {
       "id": "3",
-      "brand": "Lorado", "category":"маслины",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "9 3100ml d155 h172",
+        ""
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Маслины резаные 3100",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
+      "name": "Маслины черные резанные",
       "rate": 5,
       "price": 29,
       "quantity": 23,
@@ -157,7 +120,7 @@
         "/assets/images/products/maslines-rez-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -167,56 +130,17 @@
         "size": "s"
       },
       "slug": "mustard-australia-3",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "4",
       "brand": "Lorado", "category":"молоко",
       "tag": [
-        "fresh",
+        "4 425ml d73 h110",
         "meat"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Кокосовое молоко (жирность 17-19%) 400мл. Произведено в Таиланде.",
+      "fullDescription": "",
       "name": "Молоко кокосовое",
       "rate": 5,
       "price": 17,
@@ -227,7 +151,7 @@
         "/assets/images/products/mol-kokos425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "400мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -238,55 +162,17 @@
       },
       "slug": "grouped-product-4",
       "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
       ]
     },
     {
       "id": "5",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "9 3100ml d155 h172",
+        ""
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Намеко  консервированные 3100мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Намеко консервированные",
       "rate": 5,
       "price": 17,
@@ -296,7 +182,7 @@
         "/assets/images/products/nameko-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -306,56 +192,17 @@
         "size": "m"
       },
       "slug": "india-strawberry-5",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "6",
-      "brand": "Lorado", "category":"оливки",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "2 314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
       "name": "Оливки зеленые без косточек",
       "rate": 5,
       "price": 15,
@@ -365,7 +212,7 @@
         "/assets/images/products/olive-б_k.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -375,56 +222,17 @@
         "size": "l"
       },
       "slug": "american-grape-6",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "7",
-      "brand": "Lorado", "category":"оливки",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "2 314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
       "name": "Оливки фаршированные криветками",
       "rate": 4,
       "price": 69,
@@ -434,7 +242,7 @@
         "/assets/images/products/olive-krev.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -444,56 +252,17 @@
         "size": "xl"
       },
       "slug": "anpan-bread-7",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "8",
-      "brand": "Lorado", "category":"оливки",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "2 314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
       "name": "Оливки зеленые фаршированные лимоном",
       "rate": 3,
       "price": 26,
@@ -503,7 +272,7 @@
         "/assets/images/products/olive-lemon.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -513,56 +282,17 @@
         "size": "s"
       },
       "slug": "fortune-cookies-8",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "9",
-      "brand": "Lorado", "category":"оливки",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
-        "fresh",
-        "meat"
+        "2 314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Маслины и Оливки ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
+      "produced":"Испании",
+      "fullDescription": "",
       "name": "Оливки зеленые фаршированные лососем",
       "rate": 4,
       "price": 26,
@@ -572,7 +302,7 @@
         "/assets/images/products/olive-losos.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "314мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -627,23 +357,20 @@
       "id": "10",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "4 425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "",
+      "fullDescription": "",
       "name": "Абрикосы очищенные половинки в легком сиропе",
       "rate": 4,
       "price": 19,
       "quantity": 15,
       "coverImage": "/assets/images/products/abrikos-425.png",
       "images": [
-        "/assets/images/products/abrikos-425.png",
-        "/assets/images/products/11.png",
-        "/assets/images/products/12.png"
+        "/assets/images/products/abrikos-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -653,56 +380,16 @@
         "size": "m"
       },
       "slug": "green-aus-10",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "11",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "580ml d83 h114"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
+      "fullDescription": "",
       "name": "Ананас кусочки в легком сиропе",
       "rate": 4,
       "price": 45,
@@ -713,7 +400,7 @@
         "/assets/images/products/ananas-kus-580.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "580мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -723,56 +410,16 @@
         "size": "l"
       },
       "slug": "kossars-bakery-11",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "12",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
+      "fullDescription": "",
       "name": "Ананас кусочки",
       "rate": 4,
       "price": 33,
@@ -782,7 +429,7 @@
         "/assets/images/products/F-ananas-res-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -792,56 +439,16 @@
         "size": "s"
       },
       "slug": "zutter-chocolate-12",
-      "reviews": [
-        {
-          "id": "c3",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Max Shawrad",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        },
-        {
-          "id": "c1",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Sharah Anna",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.",
-          "reply": [
-            {
-              "id": "c2",
-              "commentDate": "2020-09-06",
-              "user": {
-                "name": "Charlotte Jessica",
-                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-              },
-              "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-            }
-          ]
-        },
-        {
-          "id": "c2",
-          "commentDate": "2020-09-06",
-          "user": {
-            "name": "Mary Lili",
-            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
-          },
-          "review": "Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora."
-        }
-      ]
+      "reviews": []
     },
     {
       "id": "13",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
       "name": "Ананас шайбы",
       "rate": 4,
       "price": 33,
@@ -851,7 +458,7 @@
         "/assets/images/products/F-ananas-shybi-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -867,11 +474,10 @@
       "id": "14",
       "brand": "Ferragosto", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Фасоль натуральная белая консервированная 425мл. Произведено в России. ",
+      "fullDescription": "",
       "name": "Фасоль белая",
       "rate": 4,
       "price": 33,
@@ -881,7 +487,7 @@
         "/assets/images/products/F-fasol-bel-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -897,11 +503,10 @@
       "id": "15",
       "brand": "Ferragosto", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Фасоль натуральная красная консервированная 425мл. Произведено в России.",
+      "fullDescription": "",
       "name": "Фасоль красная",
       "rate": 4,
       "price": 33,
@@ -911,7 +516,7 @@
         "/assets/images/products/F-fasol-krasna-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -927,11 +532,10 @@
       "id": "16",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Груши половинки в легком сиропе 3100мл. Произведено в Китае. ",
+      "fullDescription": "",
       "name": "Груши половинки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -941,7 +545,7 @@
         "/assets/images/products/F-grushi-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -957,11 +561,11 @@
       "id": "17",
       "brand": "Ferragosto", "category":"кукуруза",
       "tag": [
-        "fresh",
+        "3100ml d155 h172",
         "meat"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Початки кукурузы консервированные 3100мл. Произведено в Таиланде. ",
+      "fullDescription": "",
       "name": "Початки кукурузы",
       "rate": 4,
       "price": 33,
@@ -971,7 +575,7 @@
         "/assets/images/products/F-kukuruzn-poch-baby-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -987,11 +591,10 @@
       "id": "18",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "4 425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Манго в легком сиропе 425мл. Произведено в Таиланде. ",
+      "fullDescription": "",
       "name": "Манго в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1001,7 +604,7 @@
         "/assets/images/products/F-mango-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1017,11 +620,10 @@
       "id": "19",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "4 425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Персики половинки в легком сиропе 425мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Персики половинки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1031,7 +633,7 @@
         "/assets/images/products/F-persik-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1047,11 +649,10 @@
       "id": "20",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Персики дольки в легком сиропе 3100мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Персики дольки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1061,7 +662,7 @@
         "/assets/images/products/F-persik-dolki-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1077,11 +678,10 @@
       "id": "21",
       "brand": "Ferragosto", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Персики кубики в легком сиропе 3100мл. Произведено в Китае. ",
+      "fullDescription": "",
       "name": "Персики кубики в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1091,7 +691,7 @@
         "/assets/images/products/F-persik-kubik-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1107,11 +707,10 @@
       "id": "22",
       "brand": "Ferragosto", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны резаные 425 мл. Произведено в Китае. ",
+      "fullDescription": "",
       "name": "Шампиньоны резанные",
       "rate": 4,
       "price": 33,
@@ -1121,7 +720,7 @@
         "/assets/images/products/F-shamp-rez-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425 мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1137,11 +736,10 @@
       "id": "23",
       "brand": "Ferragosto", "category":"кукуруза",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d83 h85"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Кукуруза сладкая консервированная 425мл. Кукуруза сахарная в зернах в вакуумной упаковке, высшего сорта, приготовлена по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Кукуруза - очень популярна консервированная кукуруза, которую чаще всего используют для приготовления различных салатов, а так же часто используется для украшения мясных блюд и в виде гарнира. Сладкая кукуруза  производится из свежих, созревших початков кукурузы последнего урожая.",
       "name": "Сладкая кукуруза",
       "rate": 4,
       "price": 33,
@@ -1151,7 +749,7 @@
         "/assets/images/products/F-slad-kukuruza-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1167,11 +765,10 @@
       "id": "24",
       "brand": "Ferragosto", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "314ml d65 h100"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Зеленый горошек консервированный 315мл. Зеленый горошек из мозговых сортов молочной спелости, высшего сорта, приготовлен по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Горошек – приготовлен из горошка мозговых сортов молочной спелости. Горошек мозговых сортов более нежный, в нем содержится меньше крахмала, но больше сахаров и витаминов, нежели в гладкозерном. Из такого горошка и получают консервы высшего сорта. С момента сбора  до производства консервированного проходит всего несколько часов. При консервировании в зеленом горошке сохраняются практически все ценные пищевые вещества, которыми он так богат: соли калия, фосфора, кальция, витамины группы В, каротин, витамин С и РР, щавелевая кислота, пурины, клетчатка",
       "name": "Зеленый горошек",
       "rate": 4,
       "price": 33,
@@ -1181,7 +778,7 @@
         "/assets/images/products/F-zel-goroshek-310.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "315мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1197,11 +794,10 @@
       "id": "25",
       "brand": "Ferragosto", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d83 h85"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Зеленый горошек консервированный 425мл. Зеленый горошек из мозговых сортов молочной спелости, высшего сорта, приготовлен по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Горошек – приготовлен из горошка мозговых сортов молочной спелости. Горошек мозговых сортов более нежный, в нем содержится меньше крахмала, но больше сахаров и витаминов, нежели в гладкозерном. Из такого горошка и получают консервы высшего сорта. С момента сбора  до производства консервированного проходит всего несколько часов. При консервировании в зеленом горошке сохраняются практически все ценные пищевые вещества, которыми он так богат: соли калия, фосфора, кальция, витамины группы В, каротин, витамин С и РР, щавелевая кислота, пурины, клетчатка",
       "name": "Зеленый горошек",
       "rate": 4,
       "price": 33,
@@ -1211,7 +807,7 @@
         "/assets/images/products/F-zel-goroshek-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1223,45 +819,15 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    {
-      "id": "26",
-      "brand": "Ferragosto", "category":"бобовые",
-      "tag": [
-        "fresh",
-        "meat"
-      ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Зеленый горошек",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/F-zel-goroshek-425.png",
-      "images": [
-        "/assets/images/products/F-zel-goroshek-425.png"
-      ],
-      "specifications": {
-        "weight": "1kg",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
+  
     {
       "id": "27",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананас кусочки в легком сиропе 850мл. Произведено в Таиланде. ",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
       "name": "Ананас кусочки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1271,7 +837,7 @@
         "/assets/images/products/ananas-kus-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1287,11 +853,10 @@
       "id": "28",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананас шайбы в легком сиропе 850мл. Произведено в Таиланде.",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
       "name": "Ананас шайбы в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1301,7 +866,7 @@
         "/assets/images/products/ananas-shaybi-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1317,11 +882,10 @@
       "id": "29",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "580ml d83 h114"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананас шайбы в легком сиропе 580мл. Произведено в Таиланде. ",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
       "name": "Ананас шайбы в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1331,7 +895,7 @@
         "/assets/images/products/ananas-shaybi-580.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "580мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1347,11 +911,11 @@
       "id": "30",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "9 3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананас кусочки в легком сиропе 3100мл. Произведено в Таиланде.",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
+
       "name": "Ананас кусочки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1361,7 +925,7 @@
         "/assets/images/products/ananas-kus-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1377,11 +941,10 @@
       "id": "31",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "9 3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Ананас шайбы в легком сиропе 3100мл. Произведено в Таиланде.",
+      "fullDescription": "Ананасы ТМ «Lorado» и «Ferragosto» изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
       "name": "Ананас шайбы в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1391,7 +954,7 @@
         "/assets/images/products/ananas-shaybi-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1407,11 +970,10 @@
       "id": "32",
       "brand": "Lorado", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d83 h85"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Зеленый горошек консервированный 425мл. Зеленый горошек из мозговых сортов молочной спелости, высшего сорта, приготовлен по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Горошек – приготовлен из горошка мозговых сортов молочной спелости. Горошек мозговых сортов более нежный, в нем содержится меньше крахмала, но больше сахаров и витаминов, нежели в гладкозерном. Из такого горошка и получают консервы высшего сорта. С момента сбора  до производства консервированного проходит всего несколько часов. При консервировании в зеленом горошке сохраняются практически все ценные пищевые вещества, которыми он так богат: соли калия, фосфора, кальция, витамины группы В, каротин, витамин С и РР, щавелевая кислота, пурины, клетчатка",
       "name": "Зеленый горошек",
       "rate": 4,
       "price": 33,
@@ -1421,7 +983,7 @@
         "/assets/images/products/goroshek-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1437,11 +999,10 @@
       "id": "33",
       "brand": "Lorado", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Зеленый горошек консервированный 3100мл. Зеленый горошек из мозговых сортов молочной спелости, высшего сорта, приготовлен по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Горошек – приготовлен из горошка мозговых сортов молочной спелости. Горошек мозговых сортов более нежный, в нем содержится меньше крахмала, но больше сахаров и витаминов, нежели в гладкозерном. Из такого горошка и получают консервы высшего сорта. С момента сбора  до производства консервированного проходит всего несколько часов. При консервировании в зеленом горошке сохраняются практически все ценные пищевые вещества, которыми он так богат: соли калия, фосфора, кальция, витамины группы В, каротин, витамин С и РР, щавелевая кислота, пурины, клетчатка",
       "name": "Зеленый горошек",
       "rate": 4,
       "price": 33,
@@ -1451,7 +1012,7 @@
         "/assets/images/products/goroshek-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1467,11 +1028,11 @@
       "id": "34",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
+        "850ml d99 h118",
         "meat"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Груши половинки в легком сиропе 850мл. Произведено в Китае. (Lorado)",
+      "fullDescription": "",
       "name": "Груши половинки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1481,7 +1042,7 @@
         "/assets/images/products/grushi-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1497,11 +1058,10 @@
       "id": "35",
       "brand": "Lorado", "category":"кукуруза",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d83 h85"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Кукуруза сладкая консервированная 425мл. Кукуруза сахарная в зернах в вакуумной упаковке, высшего сорта, приготовлена по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Кукуруза - очень популярна консервированная кукуруза, которую чаще всего используют для приготовления различных салатов, а так же часто используется для украшения мясных блюд и в виде гарнира. Сладкая кукуруза  производится из свежих, созревших початков кукурузы последнего урожая.",
       "name": "Срадкая кукуруза",
       "rate": 4,
       "price": 33,
@@ -1511,7 +1071,7 @@
         "/assets/images/products/kukuruza-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1527,11 +1087,10 @@
       "id": "36",
       "brand": "Lorado", "category":"кукуруза",
       "tag": [
-        "fresh",
-        "meat"
+        "2650ml d155 h150"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Кукуруза сладкая консервированная 2650мл. Произведено в Таиланде.",
+      "fullDescription": "Кукуруза - очень популярна консервированная кукуруза, которую чаще всего используют для приготовления различных салатов, а так же часто используется для украшения мясных блюд и в виде гарнира. Сладкая кукуруза  производится из свежих, созревших початков кукурузы последнего урожая.",
       "name": "Срадкая кукуруза",
       "rate": 4,
       "price": 33,
@@ -1541,7 +1100,7 @@
         "/assets/images/products/kukuruza-2650.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "2650мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1557,11 +1116,10 @@
       "id": "37",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Манго в легком сиропе 425мл. Произведено в Таиланде. ",
+      "fullDescription": "",
       "name": "Манго в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1571,7 +1129,7 @@
         "/assets/images/products/mango-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1587,11 +1145,10 @@
       "id": "38",
       "brand": "Lorado", "category":"перец",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Перец Халапеньо резаный 3100мл. Произведено в Индии.",
+      "fullDescription": "",
       "name": "Перец халапеньо резанный",
       "rate": 4,
       "price": 33,
@@ -1601,7 +1158,7 @@
         "/assets/images/products/perets-halapenyu-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1617,12 +1174,11 @@
       "id": "39",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Персики половинки в легком сиропе",
+      "shortDescription": "",
+      "fullDescription": "",
+      "name": "Персики половинки в легком сиропе 425мл. Произведено в Китае.",
       "rate": 4,
       "price": 33,
       "quantity": 4,
@@ -1631,7 +1187,7 @@
         "/assets/images/products/persiki-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1647,11 +1203,10 @@
       "id": "40",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Персики половинки в легком сиропе 850мл. Произведено в Китае",
+      "fullDescription": "",
       "name": "Персики половинки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1661,7 +1216,7 @@
         "/assets/images/products/persiki-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1677,11 +1232,10 @@
       "id": "41",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Персики половинки в легком сиропе 3100мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Персики половинки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -1691,7 +1245,7 @@
         "/assets/images/products/persiki-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1707,12 +1261,11 @@
       "id": "42",
       "brand": "Lorado", "category":"паста",
       "tag": [
-        "fresh",
-        "meat"
+        "780ml d99 h105"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Томатная паста 25%",
+      "shortDescription": "Томатная паста 25% 800г. Произведено в России.",
+      "fullDescription": "",
+      "name": "Томатная паста",
       "rate": 4,
       "price": 33,
       "quantity": 4,
@@ -1721,7 +1274,7 @@
         "/assets/images/products/top-pasta-780.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "800г",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1737,11 +1290,10 @@
       "id": "43",
       "brand": "Lorado", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "4 425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Фасоль натуральная белая консервированная 425мл. Произведено в России.",
+      "fullDescription": "",
       "name": "Фасоль белая",
       "rate": 4,
       "price": 33,
@@ -1751,7 +1303,7 @@
         "/assets/images/products/fasol-bel-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1767,11 +1319,10 @@
       "id": "44",
       "brand": "Lorado", "category":"бобовые",
       "tag": [
-        "fresh",
-        "meat"
+        "4 425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Фасоль натуральная красная консервированная 425мл. Произведено в России.",
+      "fullDescription": "",
       "name": "Фасоль красная",
       "rate": 4,
       "price": 33,
@@ -1781,7 +1332,7 @@
         "/assets/images/products/fasol-krasn-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1797,12 +1348,11 @@
       "id": "45",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Коктель тропический фруктовый в легком сиропе",
+      "shortDescription": "Коктейль тропический фруктовый в легком сиропе 850мл. Произведено в Таиланде.",
+      "fullDescription": "",
+      "name": "Коктейль тропический",
       "rate": 4,
       "price": 33,
       "quantity": 4,
@@ -1811,7 +1361,7 @@
         "/assets/images/products/frukti-koktel-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1827,11 +1377,10 @@
       "id": "46",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны резаные 3100мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Шампиньоны резанные",
       "rate": 4,
       "price": 33,
@@ -1841,7 +1390,7 @@
         "/assets/images/products/shamp-rez-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1857,11 +1406,10 @@
       "id": "47",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны целые 3100мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Шампиньоны цельные",
       "rate": 4,
       "price": 33,
@@ -1871,7 +1419,7 @@
         "/assets/images/products/shamp-cel-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1887,11 +1435,10 @@
       "id": "48",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны резаные 425 мл. Произведено в Китае. ",
+      "fullDescription": "",
       "name": "Шампиньоны резанные",
       "rate": 4,
       "price": 33,
@@ -1901,7 +1448,7 @@
         "/assets/images/products/shamp-rez-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1917,11 +1464,10 @@
       "id": "49",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны целые 850мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Шампиньоны резанные",
       "rate": 4,
       "price": 33,
@@ -1931,7 +1477,7 @@
         "/assets/images/products/shamp-rez-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1947,11 +1493,10 @@
       "id": "50",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "425ml d73 h110"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны целые 425мл. Произведено в Китае",
+      "fullDescription": "",
       "name": "Шампиньоны цельные",
       "rate": 4,
       "price": 33,
@@ -1961,7 +1506,7 @@
         "/assets/images/products/shamp-cel-425.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "425мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -1977,11 +1522,10 @@
       "id": "51",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
-        "meat"
+        "850ml d99 h118"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шампиньоны целые 850мл. Произведено в Китае.",
+      "fullDescription": "",
       "name": "Шампиньоны цельные",
       "rate": 4,
       "price": 33,
@@ -1991,7 +1535,7 @@
         "/assets/images/products/shamp-cel-850.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "850мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -2007,11 +1551,11 @@
       "id": "52",
       "brand": "Lorado", "category":"грибы",
       "tag": [
-        "fresh",
+        "3100ml d155 h172",
         "meat"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "Шиитаке ( грузди ) консервированные. Произведено в Китае. (",
+      "fullDescription": "",
       "name": "Шиитаке консервированные",
       "rate": 4,
       "price": 33,
@@ -2021,7 +1565,7 @@
         "/assets/images/products/shiitake-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -2037,12 +1581,11 @@
       "id": "53",
       "brand": "Для ресторанов", "category":"Для ресторанов",
       "tag": [
-        "fresh",
-        "meat"
+        "3100ml d155 h172"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
-      "name": "Фастоль",
+      "shortDescription": "Фасоль красная консервированная 3100мл. Произведено в Росссии",
+      "fullDescription": "",
+      "name": "Фастоль красная",
       "rate": 4,
       "price": 33,
       "quantity": 4,
@@ -2051,7 +1594,7 @@
         "/assets/images/products/fasol-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
@@ -2538,13 +2081,13 @@
   "cart": [
     {
       "id": "d1bbd4c7-befb-426a-a6b2-f4ec80714f61",
-      "brand": "Lorado", "category":"маслины",
+      "brand": "Lorado", "category":"оливки/маслины",
       "tag": [
         "fresh",
         "meat"
       ],
-      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
-      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "shortDescription": "",
+      "fullDescription": "",
       "name": "Маслины резаные 3100",
       "rate": 5,
       "price": 29,
@@ -2554,7 +2097,7 @@
         "/assets/images/products/maslines-rez-3100.png"
       ],
       "specifications": {
-        "weight": "1kg",
+        "weight": "3100мл",
         "dimensions": {
           "long": 30,
           "width": 20,
