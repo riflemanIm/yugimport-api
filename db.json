@@ -2032,7 +2032,38 @@
       },
       "slug": "zutter-chocolate-12",
       "reviews": []
+    },
+    {
+      "id": "53",
+      "brand": "Для ресторанов", "category":"Для ресторанов",
+      "tag": [
+        "fresh",
+        "meat"
+      ],
+      "shortDescription": "Your first step to sustainable living is going zero waste and what better way to start then starting at home",
+      "fullDescription": "Last but not least, we couldn’t write a post on blogs to follow on sustainable living without mentioning our very own blog, The Organic society. Our mission is to inspire families to eat well, do good and live better. Our blog covers all things organic, from food to farming, health and wellness to fashion and beauty.",
+      "name": "Фастоль",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/fasol-3100.png",
+      "images": [
+        "/assets/images/products/fasol-3100.png"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
     }
+
   ],
   "blog": [
     {
