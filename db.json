@@ -533,6 +533,37 @@
     },
 
     {
+      "id": "22",
+      "brand": "Ferragosto", "category":"грибы",
+      "tag": [
+        "425ml d73 h110"
+      ],
+      "shortDescription": "Шампиньоны резаные 425 мл. Произведено в Китае. ",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
+      "name": "Шампиньоны резанные",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-shamp-rez-425.png",
+      "images": [
+        "/assets/images/products/F-shamp-rez-425.png"
+      ],
+      "specifications": {
+        "weight": "425 мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+
+
+    {
       "id": "34",
       "brand": "Lorado", "category":"фрукты",
       "tag": [
@@ -625,6 +656,65 @@
       ]
     },
     {
+      "id": "23",
+      "brand": "Ferragosto", "category":"кукуруза",
+      "tag": [
+        "425ml d83 h85"
+      ],
+      "shortDescription": "Кукуруза сладкая консервированная 425мл. Кукуруза сахарная в зернах в вакуумной упаковке, высшего сорта, приготовлена по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
+      "fullDescription": "Кукуруза - очень популярна консервированная кукуруза, которую чаще всего используют для приготовления различных салатов, а так же часто используется для украшения мясных блюд и в виде гарнира. Сладкая кукуруза  производится из свежих, созревших початков кукурузы последнего урожая.",
+      "name": "Сладкая кукуруза",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-slad-kukuruza-425.png",
+      "images": [
+        "/assets/images/products/F-slad-kukuruza-425.png"
+      ],
+      "specifications": {
+        "weight": "425мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "17",
+      "brand": "Ferragosto", "category":"кукуруза",
+      "tag": [
+        "resto"
+      ],
+      "shortDescription": "Початки кукурузы консервированные 3100мл. Произведено в Таиланде. ",
+      "fullDescription": "",
+      "name": "Початки кукурузы",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/F-kukuruzn-poch-baby-3100.png",
+      "images": [
+        "/assets/images/products/F-kukuruzn-poch-baby-3100.png"
+      ],
+      "specifications": {
+        "weight": "3100мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+
+    {
       "id": "24",
       "brand": "Ferragosto", "category":"бобовые",
       "tag": [
@@ -682,6 +772,7 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
+    
     {
       "id": "32",
       "brand": "Lorado", "category":"бобовые",
@@ -769,35 +860,6 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    {
-      "id": "23",
-      "brand": "Ferragosto", "category":"кукуруза",
-      "tag": [
-        "425ml d83 h85"
-      ],
-      "shortDescription": "Кукуруза сладкая консервированная 425мл. Кукуруза сахарная в зернах в вакуумной упаковке, высшего сорта, приготовлена по ГОСТу. Произведено в России. (Lorado, Ferragosto)",
-      "fullDescription": "Кукуруза - очень популярна консервированная кукуруза, которую чаще всего используют для приготовления различных салатов, а так же часто используется для украшения мясных блюд и в виде гарнира. Сладкая кукуруза  производится из свежих, созревших початков кукурузы последнего урожая.",
-      "name": "Сладкая кукуруза",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/F-slad-kukuruza-425.png",
-      "images": [
-        "/assets/images/products/F-slad-kukuruza-425.png"
-      ],
-      "specifications": {
-        "weight": "425мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
 
     {
       "id": "36",
@@ -829,35 +891,6 @@
       "reviews": []
     },
 
-    {
-      "id": "17",
-      "brand": "Ferragosto", "category":"кукуруза",
-      "tag": [
-        "resto"
-      ],
-      "shortDescription": "Початки кукурузы консервированные 3100мл. Произведено в Таиланде. ",
-      "fullDescription": "",
-      "name": "Початки кукурузы",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/F-kukuruzn-poch-baby-3100.png",
-      "images": [
-        "/assets/images/products/F-kukuruzn-poch-baby-3100.png"
-      ],
-      "specifications": {
-        "weight": "3100мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
 
     
     {
@@ -977,14 +1010,133 @@
       "reviews": []
     },
 
+ 
+    {
+      "id": "48",
+      "brand": "Lorado", "category":"грибы",
+      "tag": [
+        "425ml d73 h110"
+      ],
+      "shortDescription": "Шампиньоны резаные 425 мл.  Произведено в Китае. ",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
+      "name": "Шампиньоны резанные",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/shamp-rez-425.png",
+      "images": [
+        "/assets/images/products/shamp-rez-425.png"
+      ],
+      "specifications": {
+        "weight": "425мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+
+    {
+      "id": "50",
+      "brand": "Lorado", "category":"грибы",
+      "tag": [
+        "425ml d73 h110"
+      ],
+      "shortDescription": "Шампиньоны целые 425мл.  Произведено в Китае",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
+      "name": "Шампиньоны целые",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/shamp-cel-425.png",
+      "images": [
+        "/assets/images/products/shamp-cel-425.png"
+      ],
+      "specifications": {
+        "weight": "425мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+    {
+      "id": "49",
+      "brand": "Lorado", "category":"грибы",
+      "tag": [
+        "850ml d99 h118"
+      ],
+      "shortDescription": "Шампиньоны целые 850мл.  Произведено в Китае.",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
+      "name": "Шампиньоны резанные",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/shamp-rez-850.png",
+      "images": [
+        "/assets/images/products/shamp-rez-850.png"
+      ],
+      "specifications": {
+        "weight": "850мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
+
+    {
+      "id": "51",
+      "brand": "Lorado", "category":"грибы",
+      "tag": [
+        "850ml d99 h118"
+      ],
+      "shortDescription": "Шампиньоны целые 850мл.  Произведено в Китае.",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
+      "name": "Шампиньоны целые",
+      "rate": 4,
+      "price": 33,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/shamp-cel-850.png",
+      "images": [
+        "/assets/images/products/shamp-cel-850.png"
+      ],
+      "specifications": {
+        "weight": "850мл",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": []
+    },
     {
       "id": "46",
       "brand": "Lorado", "category":"грибы",
       "tag": [
         "resto"
       ],
-      "shortDescription": "Шампиньоны резаные 3100мл. Произведено в Китае.",
-      "fullDescription": "",
+      "shortDescription": "Шампиньоны резаные 3100мл.  Произведено в Китае.",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
       "name": "Шампиньоны резанные",
       "rate": 4,
       "price": 33,
@@ -1012,8 +1164,8 @@
       "tag": [
         "resto"
       ],
-      "shortDescription": "Шампиньоны целые 3100мл. Произведено в Китае.",
-      "fullDescription": "",
+      "shortDescription": "Шампиньоны целые 3100мл.  Произведено в Китае.",
+      "fullDescription": "Шампиньоны ТМ «Lorado»  обладают непревзойденным и изысканным вкусом. Шампиньоны - являются низкокалорийным продуктом: всего 15 ккал. Гриб богат витамином C, содержит клетчатку, витамины группы В, витамины Е, D, РР, фосфор, железо, калий и цинк. ТМ «Lorado» использует для консервации только самое качественное сырьё, лучших производителей. ",
       "name": "Шампиньоны целые",
       "rate": 4,
       "price": 33,
@@ -1036,129 +1188,13 @@
       "reviews": []
     },
     {
-      "id": "48",
-      "brand": "Lorado", "category":"грибы",
-      "tag": [
-        "425ml d73 h110"
-      ],
-      "shortDescription": "Шампиньоны резаные 425 мл. Произведено в Китае. ",
-      "fullDescription": "",
-      "name": "Шампиньоны резанные",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/shamp-rez-425.png",
-      "images": [
-        "/assets/images/products/shamp-rez-425.png"
-      ],
-      "specifications": {
-        "weight": "425мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
-    {
-      "id": "49",
-      "brand": "Lorado", "category":"грибы",
-      "tag": [
-        "850ml d99 h118"
-      ],
-      "shortDescription": "Шампиньоны целые 850мл. Произведено в Китае.",
-      "fullDescription": "",
-      "name": "Шампиньоны резанные",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/shamp-rez-850.png",
-      "images": [
-        "/assets/images/products/shamp-rez-850.png"
-      ],
-      "specifications": {
-        "weight": "850мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
-    {
-      "id": "50",
-      "brand": "Lorado", "category":"грибы",
-      "tag": [
-        "425ml d73 h110"
-      ],
-      "shortDescription": "Шампиньоны целые 425мл. Произведено в Китае",
-      "fullDescription": "",
-      "name": "Шампиньоны целые",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/shamp-cel-425.png",
-      "images": [
-        "/assets/images/products/shamp-cel-425.png"
-      ],
-      "specifications": {
-        "weight": "425мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
-    {
-      "id": "51",
-      "brand": "Lorado", "category":"грибы",
-      "tag": [
-        "850ml d99 h118"
-      ],
-      "shortDescription": "Шампиньоны целые 850мл. Произведено в Китае.",
-      "fullDescription": "",
-      "name": "Шампиньоны целые",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/shamp-cel-850.png",
-      "images": [
-        "/assets/images/products/shamp-cel-850.png"
-      ],
-      "specifications": {
-        "weight": "850мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
-    {
       "id": "5",
       "brand": "Lorado", "category":"грибы",
       "tag": [
         "resto"        
       ],
-      "shortDescription": "Намеко консервированные 3100мл. Произведено в Китае.",
-      "fullDescription": "",
+      "shortDescription": "Намеко консервированные 3100мл.  Произведено в Китае.",
+      "fullDescription": "Один из самых популярных культивируемых грибов в Японии и Китае.  Внешне и по своим вкусовым данным очень схожи с опятами.У этого гриба прекрасные вкус и текстура. Ни на что не похожий аромат и сладковатый вкус намеко ощущается даже сквозь густой желеобразный рассол.",
       "name": "Намеко консервированные",
       "rate": 5,
       "price": 17,
@@ -1189,7 +1225,7 @@
         "resto"
       ],
       "shortDescription": "Шиитаке (грузди) консервированные. Произведено в Китае.",
-      "fullDescription": "",
+      "fullDescription": "Имеет превосходных вкус и аромат, приятную текстуру мякоти и по праву является королем среди культивируемых деликатесных грибов. Шиитаке хороший источник белка, калия, а также цинка, который является важным элементом, определяющим состояние иммунной системы.  Шиитаке - это также богатый источник сложных углеводов, названных полисахаридами, которые способствуют укреплению иммунной системы.   ТМ «Lorado»  импортирует шиитаке из Китая. Свое представительство позволяет следит и контролировать процесс выращивания и производства продукции на всех стадиях  Каждый гриб собирается вручную, сортируется по размеру, и тщательно промывается несколько раз. ТМ «Lorado» использует только самое лучшее сырье (высокого качества) для производства  соленых и маринованных грибов.",
       "name": "Шиитаке консервированные",
       "rate": 4,
       "price": 33,
@@ -1502,35 +1538,6 @@
       "reviews": []
     },
     
-    {
-      "id": "22",
-      "brand": "Ferragosto", "category":"грибы",
-      "tag": [
-        "425ml d73 h110"
-      ],
-      "shortDescription": "Шампиньоны резаные 425 мл. Произведено в Китае. ",
-      "fullDescription": "",
-      "name": "Шампиньоны резанные",
-      "rate": 4,
-      "price": 33,
-      "quantity": 4,
-      "coverImage": "/assets/images/products/F-shamp-rez-425.png",
-      "images": [
-        "/assets/images/products/F-shamp-rez-425.png"
-      ],
-      "specifications": {
-        "weight": "425 мл",
-        "dimensions": {
-          "long": 30,
-          "width": 20,
-          "height": 10
-        },
-        "color": "yellow",
-        "size": "s"
-      },
-      "slug": "zutter-chocolate-12",
-      "reviews": []
-    },
 
 
     
