@@ -2,7 +2,8 @@
   "product": [
     {
       "id": "29",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "580ml d83 h114"
       ],
@@ -31,7 +32,8 @@
     },
     {
       "id": "28",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "850ml d99 h118"
       ],
@@ -60,7 +62,8 @@
     },
     {
       "id": "31",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
@@ -86,10 +89,11 @@
       },
       "slug": "zutter-chocolate-12",
       "reviews": []
-    },    
+    },
     {
       "id": "13",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "580ml"
       ],
@@ -118,7 +122,8 @@
     },
     {
       "id": "11",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "580ml"
       ],
@@ -148,7 +153,8 @@
     },
     {
       "id": "12",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "580ml"
       ],
@@ -177,7 +183,8 @@
     },
     {
       "id": "27",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "850ml d99 h118"
       ],
@@ -204,18 +211,15 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    
-
-    
     {
       "id": "30",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
       "shortDescription": "Ананас кусочки в легком сиропе 3100мл. Произведено в Таиланде.",
       "fullDescription": "Ананасы ТМ «Lorado»  изготовлены из качественных отборных плодов. Производитель использовал оптимальную технологию приготовления, благодаря чему удалось сохранить не только изысканный вкус свежих плодов, но и их упругую консистенцию, характерную структуру. Это высококачественный продукт, разработанный специалистами компании с учетом всех тенденций современного рынка, с любовью к своим потребителям.",
-
       "name": "Ананас кусочки в легком сиропе",
       "rate": 4,
       "price": 33,
@@ -237,10 +241,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "10",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "425ml"
       ],
@@ -269,7 +273,8 @@
     },
     {
       "id": "16",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
@@ -296,10 +301,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
- 
     {
       "id": "18",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "4 425ml d73 h110"
       ],
@@ -328,7 +333,8 @@
     },
     {
       "id": "37",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "425ml d73 h110"
       ],
@@ -355,15 +361,15 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "39",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "425ml d73 h110"
       ],
       "shortDescription": "Персики половинки в легком сиропе 425мл. Произведено в Китае",
-      "fullDescription": "Консервированные персики  - идеальный продукт для приготовления различных десертов и выпечки. ТМ «Lorado»  работает только с лучшими производителями, тщательно контролирует весь процесс производства от сбора урожая до поступления на полку.",      
+      "fullDescription": "Консервированные персики  - идеальный продукт для приготовления различных десертов и выпечки. ТМ «Lorado»  работает только с лучшими производителями, тщательно контролирует весь процесс производства от сбора урожая до поступления на полку.",
       "name": "Персики половинки в легком сиропе 425мл. Произведено в Китае.",
       "rate": 4,
       "price": 33,
@@ -387,7 +393,8 @@
     },
     {
       "id": "40",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "850ml d99 h118"
       ],
@@ -416,7 +423,8 @@
     },
     {
       "id": "41",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
@@ -443,10 +451,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "19",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "4 425ml d73 h110"
       ],
@@ -475,7 +483,8 @@
     },
     {
       "id": "20",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
@@ -502,10 +511,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    
     {
       "id": "21",
-      "brand": "Ferragosto", "category":"фрукты",
+      "brand": "Ferragosto",
+      "category": "фрукты",
       "tag": [
         "resto"
       ],
@@ -532,10 +541,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "22",
-      "brand": "Ferragosto", "category":"грибы",
+      "brand": "Ferragosto",
+      "category": "грибы",
       "tag": [
         "425ml d73 h110"
       ],
@@ -562,11 +571,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
-
     {
       "id": "34",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "850ml d99 h118",
         "meat"
@@ -594,10 +602,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    
     {
       "id": "45",
-      "brand": "Lorado", "category":"фрукты",
+      "brand": "Lorado",
+      "category": "фрукты",
       "tag": [
         "850ml d99 h118"
       ],
@@ -624,10 +632,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "4",
-      "brand": "Lorado", "category":"молоко",
+      "brand": "Lorado",
+      "category": "молоко",
       "tag": [
         "resto"
       ],
@@ -653,12 +661,12 @@
         "size": "m"
       },
       "slug": "grouped-product-4",
-      "reviews": [
-      ]
+      "reviews": []
     },
     {
       "id": "23",
-      "brand": "Ferragosto", "category":"кукуруза",
+      "brand": "Ferragosto",
+      "category": "кукуруза",
       "tag": [
         "425ml d83 h85"
       ],
@@ -687,7 +695,8 @@
     },
     {
       "id": "17",
-      "brand": "Ferragosto", "category":"кукуруза",
+      "brand": "Ferragosto",
+      "category": "кукуруза",
       "tag": [
         "resto"
       ],
@@ -714,10 +723,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "24",
-      "brand": "Ferragosto", "category":"бобовые",
+      "brand": "Ferragosto",
+      "category": "бобовые",
       "tag": [
         "314ml d65 h100"
       ],
@@ -746,7 +755,8 @@
     },
     {
       "id": "25",
-      "brand": "Ferragosto", "category":"бобовые",
+      "brand": "Ferragosto",
+      "category": "бобовые",
       "tag": [
         "425ml d83 h85"
       ],
@@ -773,10 +783,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-    
     {
       "id": "32",
-      "brand": "Lorado", "category":"бобовые",
+      "brand": "Lorado",
+      "category": "бобовые",
       "tag": [
         "425ml d83 h85"
       ],
@@ -805,7 +815,8 @@
     },
     {
       "id": "33",
-      "brand": "Lorado", "category":"бобовые",
+      "brand": "Lorado",
+      "category": "бобовые",
       "tag": [
         "resto"
       ],
@@ -834,7 +845,8 @@
     },
     {
       "id": "35",
-      "brand": "Lorado", "category":"кукуруза",
+      "brand": "Lorado",
+      "category": "кукуруза",
       "tag": [
         "425ml d83 h85"
       ],
@@ -861,10 +873,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "36",
-      "brand": "Lorado", "category":"кукуруза",
+      "brand": "Lorado",
+      "category": "кукуруза",
       "tag": [
         "resto"
       ],
@@ -891,12 +903,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
-
-    
     {
       "id": "43",
-      "brand": "Lorado", "category":"бобовые",
+      "brand": "Lorado",
+      "category": "бобовые",
       "tag": [
         "4 425ml d73 h110"
       ],
@@ -925,7 +935,8 @@
     },
     {
       "id": "44",
-      "brand": "Lorado", "category":"бобовые",
+      "brand": "Lorado",
+      "category": "бобовые",
       "tag": [
         "4 425ml d73 h110"
       ],
@@ -954,7 +965,8 @@
     },
     {
       "id": "14",
-      "brand": "Ferragosto", "category":"бобовые",
+      "brand": "Ferragosto",
+      "category": "бобовые",
       "tag": [
         "425ml d73 h110"
       ],
@@ -983,7 +995,8 @@
     },
     {
       "id": "15",
-      "brand": "Ferragosto", "category":"бобовые",
+      "brand": "Ferragosto",
+      "category": "бобовые",
       "tag": [
         "425ml d73 h110"
       ],
@@ -1010,11 +1023,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
- 
     {
       "id": "48",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "425ml d73 h110"
       ],
@@ -1041,10 +1053,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "50",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "425ml d73 h110"
       ],
@@ -1073,7 +1085,8 @@
     },
     {
       "id": "49",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "850ml d99 h118"
       ],
@@ -1100,10 +1113,10 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "51",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "850ml d99 h118"
       ],
@@ -1132,7 +1145,8 @@
     },
     {
       "id": "46",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "resto"
       ],
@@ -1161,7 +1175,8 @@
     },
     {
       "id": "47",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "resto"
       ],
@@ -1190,9 +1205,10 @@
     },
     {
       "id": "5",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
-        "resto"        
+        "resto"
       ],
       "shortDescription": "Намеко консервированные 3100мл.  Произведено в Китае.",
       "fullDescription": "Один из самых популярных культивируемых грибов в Японии и Китае.  Внешне и по своим вкусовым данным очень схожи с опятами.У этого гриба прекрасные вкус и текстура. Ни на что не похожий аромат и сладковатый вкус намеко ощущается даже сквозь густой желеобразный рассол.",
@@ -1217,11 +1233,10 @@
       "slug": "india-strawberry-5",
       "reviews": []
     },
-
-
     {
       "id": "52",
-      "brand": "Lorado", "category":"грибы",
+      "brand": "Lorado",
+      "category": "грибы",
       "tag": [
         "resto"
       ],
@@ -1248,15 +1263,15 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     },
-
     {
       "id": "1",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Маслины чёрные без косточки",
       "rate": 4,
@@ -1282,12 +1297,13 @@
     },
     {
       "id": "2",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
-        "314ml"        
+        "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Маслины черные с косточкой",
       "rate": 5,
@@ -1351,12 +1367,13 @@
     },
     {
       "id": "6",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Оливки зеленые без косточек",
       "rate": 5,
@@ -1381,12 +1398,13 @@
     },
     {
       "id": "7",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Оливки фаршированные креветками",
       "rate": 4,
@@ -1411,12 +1429,13 @@
     },
     {
       "id": "8",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Оливки зеленые фаршированные лимоном",
       "rate": 3,
@@ -1441,12 +1460,13 @@
     },
     {
       "id": "9",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "314ml"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Оливки зеленые фаршированные лососем",
       "rate": 4,
@@ -1510,12 +1530,13 @@
     },
     {
       "id": "3",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
-        "resto"        
+        "resto"
       ],
       "shortDescription": "ТМ «Lorado»  использует только лучшие сорта для консервирования и для фаршировки оливок/маслин (Manzanilla, Hoijblanca). Консервированные оливки и маслины ТМ «Lorado» обладают неповторимым, уникальным вкусом, и сохраняют все питательные вещества. Произведено в Испании",
-      "produced":"Испании",
+      "produced": "Испании",
       "fullDescription": "",
       "name": "Маслины черные резаные",
       "rate": 5,
@@ -1538,13 +1559,10 @@
       "slug": "mustard-australia-3",
       "reviews": []
     },
-    
-
-
-    
     {
       "id": "38",
-      "brand": "Lorado", "category":"перец",
+      "brand": "Lorado",
+      "category": "перец",
       "tag": [
         "resto"
       ],
@@ -1573,7 +1591,8 @@
     },
     {
       "id": "42",
-      "brand": "Lorado", "category":"паста",
+      "brand": "Lorado",
+      "category": "паста",
       "tag": [
         "780ml d99 h105"
       ],
@@ -1599,10 +1618,11 @@
       },
       "slug": "zutter-chocolate-12",
       "reviews": []
-    },    
+    },
     {
       "id": "53",
-      "brand": "HoReCa", "category":"HoReCa",
+      "brand": "HoReCa",
+      "category": "HoReCa",
       "tag": [
         "resto"
       ],
@@ -1631,7 +1651,8 @@
     },
     {
       "id": "54",
-      "brand": "HoReCa", "category":"HoReCa",
+      "brand": "HoReCa",
+      "category": "HoReCa",
       "tag": [
         "resto"
       ],
@@ -1658,13 +1679,12 @@
       "slug": "zutter-chocolate-12",
       "reviews": []
     }
-
-
   ],
   "blog": [
     {
       "id": "u1",
-      "brand": "Lorado", "category":"healthy",
+      "brand": "Lorado",
+      "category": "healthy",
       "tag": [
         "fresh food",
         "natural",
@@ -1722,7 +1742,8 @@
     },
     {
       "id": "u2",
-      "brand": "Lorado", "category":"healthy",
+      "brand": "Lorado",
+      "category": "healthy",
       "tag": [
         "fresh food",
         "natural",
@@ -1780,7 +1801,8 @@
     },
     {
       "id": "u3",
-      "brand": "Lorado", "category":"healthy",
+      "brand": "Lorado",
+      "category": "healthy",
       "tag": [
         "fresh food",
         "natural",
@@ -1838,7 +1860,8 @@
     },
     {
       "id": "u4",
-      "brand": "Lorado", "category":"nutrition-meal",
+      "brand": "Lorado",
+      "category": "nutrition-meal",
       "tag": [
         "meal",
         "natural",
@@ -1896,7 +1919,8 @@
     },
     {
       "id": "u5",
-      "brand": "Lorado", "category":"nutrition-meal",
+      "brand": "Lorado",
+      "category": "nutrition-meal",
       "tag": [
         "meal",
         "natural",
@@ -1954,7 +1978,8 @@
     },
     {
       "id": "u6",
-      "brand": "Lorado", "category":"organic-planting",
+      "brand": "Lorado",
+      "category": "organic-planting",
       "tag": [
         "meal",
         "natural",
@@ -2012,7 +2037,8 @@
     },
     {
       "id": "u7",
-      "brand": "Lorado", "category":"recipes",
+      "brand": "Lorado",
+      "category": "recipes",
       "tag": [
         "meal",
         "natural",
@@ -2070,7 +2096,8 @@
     },
     {
       "id": "u8",
-      "brand": "Lorado", "category":"recipes",
+      "brand": "Lorado",
+      "category": "recipes",
       "tag": [
         "meal",
         "natural",
@@ -2134,7 +2161,8 @@
   "cart": [
     {
       "id": "d1bbd4c7-befb-426a-a6b2-f4ec80714f61",
-      "brand": "Lorado", "category":"оливки/маслины",
+      "brand": "Lorado",
+      "category": "оливки/маслины",
       "tag": [
         "resto"
       ],
